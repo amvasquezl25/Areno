@@ -30,4 +30,4 @@ Para la elaboración del presente reto se utilizaron diferentes herramientas de 
 
 Adjunto algunas pantallas de los resultados y prompts utilizados.  
 
-[Evidencia CHATGP](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia1AI.png?raw=true)
+[Evidencia CHATGP Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia1AI.png?raw=true)
