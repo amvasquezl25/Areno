@@ -31,8 +31,14 @@ Para la elaboración del presente reto se utilizaron diferentes herramientas de 
 Adjunto algunas pantallas de los resultados y prompts utilizados.  
 
 [Evidencia CHATGP Prompt Parte 1](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia1AI.png?raw=true)
+
 [Evidencia CHATGP Prompt Parte 2](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia2AI.png?raw=true)
+
 [Evidencia CHATGP Resultado ChatGPT](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia4AI.png)
+
 [Evidencia Le Chat Mastral AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia5AI.png?raw=true)
+
 [Evidencia Claude Resultado](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia6AI.png?raw=true)
+
 [Evidencia Leonardo AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png?raw=true)
+
