@@ -58,6 +58,7 @@ El imponente fondo de montañas y el ambiente sereno sugieren un estilo de vida 
 
 ### Imagen 2
 Esta imagen de la marca **Areno** representa efectivamente su misión de crear accesorios de viaje sustentables y funcionales para viajeros conscientes.  
+[Imagen promocional 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%202%20S27.png)
 
 **Estilo**: Se aprecia una paleta de colores cálidos y naturales, como el marrón terroso y el azul acero, que transmiten elegancia y sofisticación. Los diseños de los bolsos y maletas tienen una apariencia minimalista y atemporal.  
 **Funcionalidad**: La fotografía del modelo con la mochila Areno muestra a una persona activa y en movimiento, reflejando el espíritu de viaje y aventura que promueve la marca.  
