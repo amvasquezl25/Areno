@@ -178,28 +178,31 @@ A continuación, se presentan tres imágenes diseñadas en base a las campañas 
 ---
 
 ### Primera Imagen
+[Imagen 1](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20Campa%C3%B1a%201.jpg)
 **Campaña:** "Viaja con Propósito"  
 **Descripción:** Representa la conexión entre diseño elegante, funcionalidad y sostenibilidad.  
 
 #### Personalización en Canva:
-- [Detalles específicos de personalización pendientes de completar]
+[Imagen Campaña 1](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20personalizada%20Campa%C3%B1a%201.jpg)
 
 ---
 
 ### Segunda Imagen
+[Imagen 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20Campa%C3%B1a%202.jpg)
 **Campaña:** "Diseñado para Durar"  
 **Descripción:** Representa la fortaleza y durabilidad de los productos Areno en cualquier aventura.  
 
 #### Personalización en Canva:
-- [Detalles específicos de personalización pendientes de completar]
+[Imagen Campaña 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20personalizada%20Campa%C3%B1a%202.jpg)
 
 ---
 
 ### Tercera Imagen
+[Imagen 3](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20Campa%C3%B1a%203.jpg)
 **Campaña:** "Tu Compañero Perfecto"  
 **Descripción:** Resalta la funcionalidad y elegancia de los productos Areno en un contexto urbano y moderno.  
 
 #### Personalización en Canva:
-- [Detalles específicos de personalización pendientes de completar]
+[Imagen Campaña 3](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20personalizada%20Campa%C3%B1a%203.jpg)
 
 
