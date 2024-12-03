@@ -171,3 +171,10 @@ El tono de comunicación de **Areno** es:
 - Anuncios en transporte público con imágenes de los productos en uso.  
 - Publicaciones destacando los compartimentos inteligentes y diseños ergonómicos.
 ```
+
+## Imágenes Publicitarias para Areno
+A continuación se generarn tres imágenes basadas en las campañas anteriores.
+
+### Primera Imagen
+Diseñada para la campaña "Viaja con Propósito".
+
