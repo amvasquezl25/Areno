@@ -173,8 +173,34 @@ El tono de comunicación de **Areno** es:
 ```
 
 ## Imágenes Publicitarias para Areno
-A continuación se generarn tres imágenes basadas en las campañas anteriores.
+
+A continuación, se presentan tres imágenes diseñadas en base a las campañas publicitarias de Areno.
+
+---
 
 ### Primera Imagen
-Diseñada para la campaña "Viaja con Propósito".
+**Campaña:** "Viaja con Propósito"  
+**Descripción:** Representa la conexión entre diseño elegante, funcionalidad y sostenibilidad.  
+
+#### Personalización en Canva:
+- [Detalles específicos de personalización pendientes de completar]
+
+---
+
+### Segunda Imagen
+**Campaña:** "Diseñado para Durar"  
+**Descripción:** Representa la fortaleza y durabilidad de los productos Areno en cualquier aventura.  
+
+#### Personalización en Canva:
+- [Detalles específicos de personalización pendientes de completar]
+
+---
+
+### Tercera Imagen
+**Campaña:** "Tu Compañero Perfecto"  
+**Descripción:** Resalta la funcionalidad y elegancia de los productos Areno en un contexto urbano y moderno.  
+
+#### Personalización en Canva:
+- [Detalles específicos de personalización pendientes de completar]
+
 
