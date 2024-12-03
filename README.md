@@ -36,7 +36,7 @@ Adjunto algunas pantallas de los resultados y prompts utilizados.
 
 [Evidencia CHATGPT Resultado ChatGPT](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia4AI.png)
 
-[Evidencia Le Chat Mistral AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia5AI.png?raw=true)
+[Evidencia Le Chat Mistral AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia5AI.png)
 
 [Evidencia Claude Resultado](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia6AI.png?raw=true)
 
