@@ -30,7 +30,7 @@ Para la elaboración del presente reto se utilizaron diferentes herramientas de 
 
 Adjunto algunas pantallas de los resultados y prompts utilizados.  
 
-[Evidencia CHATGPT Prompt Parte 1](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia1AI.png?raw=true)
+[Evidencia CHATGPT Prompt Parte 1](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia1AI.png)
 
 [Evidencia CHATGPT Prompt Parte 2](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia2AI.png?raw=true)
 
