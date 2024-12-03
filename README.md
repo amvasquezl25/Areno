@@ -48,7 +48,7 @@ Adjunto algunas pantallas de los resultados y prompts utilizados.
 
 ### Imagen 1
 Esta imagen publicitaria de la marca **Areno** transmite de manera efectiva los valores y la misión de la empresa.
-[Imagen promocional 1](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png?raw=true)
+[Imagen promocional 1](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%201%20S27.png)
 
 **Estilo**: La presentación del bolso de viaje tiene un diseño minimalista y elegante, con una combinación de colores verdes y marrones que evoca una apariencia atemporal y natural. El enfoque en los materiales y la simplicidad del diseño sugiere un estilo cuidado y sofisticado.  
 **Funcionalidad**: El bolso destacado en la imagen muestra características como correas ajustables, varios compartimentos y un aspecto robusto, lo que indica que los productos Areno están diseñados pensando en la practicidad y comodidad de los viajeros.  
