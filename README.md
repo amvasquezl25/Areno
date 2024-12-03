@@ -70,7 +70,7 @@ Los diseños de los bolsos y maletas tienen una apariencia minimalista y atempor
 
 ### Imagen 3
 La imagen publicitaria de la marca Areno transmite de manera efectiva los valores y la misión que la empresa ha definido. Algunos elementos clave que apoyan esto:
-[Imagen promocional 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%202%20S27.png)
+[Imagen promocional 3](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%203%20S27.png)
 
 **Estilo**: La paleta de colores utilizada, combinando azules y marrones, tiene un aspecto moderno y sofisticado, reflejando un diseño atemporal y elegante. Los accesorios presentados, como las maletas y bolsos, tienen un diseño minimalista y minimalista, evitando los excesos y el recargo visual.
 
