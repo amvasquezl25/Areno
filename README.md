@@ -57,12 +57,26 @@ Esta imagen publicitaria de la marca **Areno** transmite de manera efectiva los 
 El imponente fondo de montañas y el ambiente sereno sugieren un estilo de vida activo y conexión con la naturaleza, alineado con la misión de Areno de acompañar a los viajeros conscientes.
 
 ### Imagen 2
-Esta imagen de la marca **Areno** representa efectivamente su misión de crear accesorios de viaje sustentables y funcionales para viajeros conscientes.  
+Esta imagen de la marca **Areno** representa efectivamente su misión de crear accesorios de viaje sustentables y funcionales para viajeros conscientes.
 [Imagen promocional 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%202%20S27.png)
 
-**Estilo**: Se aprecia una paleta de colores cálidos y naturales, como el marrón terroso y el azul acero, que transmiten elegancia y sofisticación. Los diseños de los bolsos y maletas tienen una apariencia minimalista y atemporal.  
-**Funcionalidad**: La fotografía del modelo con la mochila Areno muestra a una persona activa y en movimiento, reflejando el espíritu de viaje y aventura que promueve la marca.  
-**Sostenibilidad**: La composición general, con el fondo de la catedral de Santiago de Compostela, agrega una dimensión aspiracional y de conexión con lugares emblemáticos.
+**Estilo**: Se aprecia una paleta de colores cálidos y naturales, como el marrón terroso y el azul acero, que transmiten una imagen de elegancia y sofisticación.  
+Los diseños de los bolsos y maletas tienen una apariencia minimalista y atemporal, sin recargamientos, lo que sugiere un enfoque en la funcionalidad y la durabilidad.
+
+**Espíritu de Viaje**: La fotografía del modelo con la mochila Areno muestra a una persona activa y en movimiento, reflejando el espíritu de viaje y aventura que promueve la marca. La composición general de la imagen, con el imponente fondo de la catedral de Santiago de Compostela, agrega una dimensión aspiracional y de conexión con lugares emblemáticos.
+
+**Funcionalidad**: Los diferentes bolsos y accesorios presentados (maleta, bolso de mano, mochila) sugieren una línea de productos versátil y adaptada a las necesidades de los viajeros. Detalles como los cierres, bolsillos y correas reflejan una atención a la practicidad y comodidad durante el viaje.
+
+
+### Imagen 3
+La imagen publicitaria de la marca Areno transmite de manera efectiva los valores y la misión que la empresa ha definido. Algunos elementos clave que apoyan esto:
+[Imagen promocional 2](https://github.com/amvasquezl25/Areno/blob/main/Imagen%20promocional%202%20S27.png)
+
+**Estilo**: La paleta de colores utilizada, combinando azules y marrones, tiene un aspecto moderno y sofisticado, reflejando un diseño atemporal y elegante. Los accesorios presentados, como las maletas y bolsos, tienen un diseño minimalista y minimalista, evitando los excesos y el recargo visual.
+
+**Funcionalidad**:Los diferentes modelos de bolsos y mochilas mostrados sugieren una variedad de opciones adaptadas a las necesidades de los viajeros. Características como los bolsillos, cremalleras y correas ajustables indican un enfoque en la practicidad y comodidad durante el viaje.
+
+**Sotenibilidad**: Si bien no se muestran detalles específicos sobre los materiales utilizados, el uso de tonos y texturas naturales, como el azul y el cuero, transmite una imagen de productos respetuosos con el medio ambiente, acorde con la misión de la marca.
 
 ---
 
