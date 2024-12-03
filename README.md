@@ -170,7 +170,6 @@ El tono de comunicación de **Areno** es:
 - Promociones exclusivas para clientes nuevos.  
 - Anuncios en transporte público con imágenes de los productos en uso.  
 - Publicaciones destacando los compartimentos inteligentes y diseños ergonómicos.
-```
 
 ## Imágenes Publicitarias para Areno
 
