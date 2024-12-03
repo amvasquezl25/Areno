@@ -118,6 +118,3 @@ El tono de comunicación de **Areno** es:
 - **Interacción**: Responder a comentarios para fomentar lealtad.  
 - **Consistencia Visual**: Mantener una estética coherente.  
 - **Hashtags**: Usar etiquetas como *#ViajeConAreno*, *#EstiloConsciente*, *#EcoTurismo*, *#Sostenibilidad*.  
-```  
-
-¡Este texto ya está listo para publicarse en tu repositorio de GitHub! 😊
