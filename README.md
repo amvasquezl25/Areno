@@ -133,4 +133,41 @@ El tono de comunicación de **Areno** es:
 - **Frecuencia**: Publicar 2-3 veces por semana.  
 - **Interacción**: Responder a comentarios para fomentar lealtad.  
 - **Consistencia Visual**: Mantener una estética coherente.  
-- **Hashtags**: Usar etiquetas como *#ViajeConAreno*, *#EstiloConsciente*, *#EcoTurismo*, *#Sostenibilidad*.  
+- **Hashtags**: Usar etiquetas como *#ViajeConAreno*, *#EstiloConsciente*, *#EcoTurismo*, *#Sostenibilidad*.
+
+# Generación de Imágenes y Campañas Publicitarias de Areno
+
+## Campaña: "Viaja con Propósito"
+**Objetivo:** Posicionar a Areno como la marca de referencia para viajeros conscientes.  
+**Mensaje:**  
+*"Cada paso que das con Areno es un paso hacia un planeta más limpio. Diseños elegantes, funcionales y responsables para quienes aman explorar sin comprometer el futuro."*
+
+**Acciones:**
+- Publicidad en redes sociales con contenido visual que muestre maletas y bolsos en paisajes naturales.  
+- Video promocional destacando materiales reciclados y procesos sustentables.  
+- Colaboración con influencers de estilo de vida consciente.
+
+---
+
+## Campaña: "Diseñado para Durar"
+**Objetivo:** Resaltar la durabilidad y calidad de los productos de Areno.  
+**Mensaje:**  
+*"Areno no solo te acompaña en tus aventuras, sino que resiste el paso del tiempo. Accesorios hechos para durar, como tus mejores recuerdos."*
+
+**Acciones:**
+- Testimonios reales de clientes y viajeros frecuentes.  
+- Contenido interactivo en Instagram (historias con encuestas sobre características favoritas).  
+- Garantía extendida como parte de la campaña, reforzando la confianza en la marca.
+
+---
+
+## Campaña: "Tu Compañero Perfecto"
+**Objetivo:** Enfatizar la funcionalidad y diseño elegante de los productos.  
+**Mensaje:**  
+*"Deja que Areno se encargue de la comodidad y el estilo mientras tú disfrutas del viaje."*
+
+**Acciones:**
+- Promociones exclusivas para clientes nuevos.  
+- Anuncios en transporte público con imágenes de los productos en uso.  
+- Publicaciones destacando los compartimentos inteligentes y diseños ergonómicos.
+```
