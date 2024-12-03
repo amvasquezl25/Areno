@@ -42,9 +42,6 @@ Adjunto algunas pantallas de los resultados y prompts utilizados.
 
 [Evidencia Leonardo AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png?raw=true)
 
-Aquí tienes el texto en formato Markdown para publicar en GitHub:  
-
-```markdown
 # Sección de Contenido Visual para Redes Sociales
 
 ## Imágenes Promocionales
