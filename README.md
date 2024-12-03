@@ -38,7 +38,7 @@ Adjunto algunas pantallas de los resultados y prompts utilizados.
 
 [Evidencia Le Chat Mistral AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia5AI.png)
 
-[Evidencia Claude Resultado](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia6AI.png?raw=true)
+[Evidencia Claude Resultado](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia6AI.png)
 
 [Evidencia Leonardo AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png?raw=true)
 
