@@ -40,7 +40,7 @@ Adjunto algunas pantallas de los resultados y prompts utilizados.
 
 [Evidencia Claude Resultado](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia6AI.png)
 
-[Evidencia Leonardo AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png?raw=true)
+[Evidencia Leonardo AI Prompt](https://github.com/amvasquezl25/Areno/blob/main/ArenoEvidencia7AI.png)
 
 # Sección de Contenido Visual para Redes Sociales
 
